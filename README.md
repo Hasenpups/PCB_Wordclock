@@ -24,6 +24,3 @@ Additionally there is a data out pin to connect the minute dots after the main L
 Several mounting holes are also available. 
 
 ![IMG_9225](https://user-images.githubusercontent.com/29422053/160991815-429243a1-5a47-4fde-93f4-62d545a22d2b.jpeg)
-
-![IMG_9226](https://user-images.githubusercontent.com/29422053/160993489-3cb02ce2-6fd7-4659-9afd-efcd13e57a16.jpeg)
-
